@@ -1,0 +1,6 @@
+{
+  "name": "Photo to Speech",
+  "description": "Extract text from photos, speak in male/female/kid voices, translate across English, Telugu & Hindi, export MP3 audio, and tap-to-speak karaoke word highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
